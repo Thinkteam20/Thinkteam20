@@ -4,13 +4,12 @@ I am Sangpil Jung, and I do content on Web development. I really enjoy learning 
 
 ##Skills and Experience 
 
-* ⚛️ REACT
-* 📱 REACT NATIVE
-* 🖥 HTML / CSS / JAVASCRIPT
-* 🖱 NODE.JS / PYTHON
+* ⚛️  REACT
+* 📱  REACT NATIVE
+* 🖥  HTML / CSS / JAVASCRIPT
+* 🖱  NODE.JS / PYTHON
 
 ## Example of Work 
-<img src=" width="256"/>
 
 - 🔭 I’m currently working on Capstone React Front-end project  
 
