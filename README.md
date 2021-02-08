@@ -2,14 +2,14 @@
 #### I am a Front-end developer 
 I am Sangpil Jung, and I do content on Web development. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-##Skills and Experience 
+## Skills and Experience 
 
-* ⚛️   REACT  
-* 📱  REACT NATIVE
-* 🖥  HTML / CSS / JAVASCRIPT
-* 📲  NODE.JS / PHP
-* 💾  mySQL
-* 📼  DJANGO / AWS / HEROKU
+* ⚛️    REACT  
+* 📱    REACT NATIVE
+* 🖥    HTML / CSS / JAVASCRIPT
+* 📲    NODE.JS / PHP
+* 💾    mySQL
+* 📼    DJANGO / AWS / HEROKU
 
 ## Example of Work 
 
