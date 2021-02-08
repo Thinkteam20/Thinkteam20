@@ -7,7 +7,9 @@ I am Sangpil Jung, and I do content on Web development. I really enjoy learning 
 * ⚛️  REACT
 * 📱  REACT NATIVE
 * 🖥  HTML / CSS / JAVASCRIPT
-* 🖱  NODE.JS / PYTHON
+* 🖱  NODE.JS / PYTHON / PHP
+* 💾  MYSQL
+* 📼  Django / AWS 
 
 ## Example of Work 
 
