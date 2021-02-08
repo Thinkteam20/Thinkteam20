@@ -2,7 +2,15 @@
 #### I am a Front-end developer 
 I am Sangpil Jung, and I do content on Web development. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills: REACT / JS / HTML / CSS / PYTHON
+##Skills and Experience 
+
+* ⚛️ REACT
+* 📱 REACT NATIVE
+* 🖥 HTML / CSS / JAVASCRIPT
+* 🖱 NODE.JS / PYTHON
+
+## Example of Work 
+<img src=" width="256"/>
 
 - 🔭 I’m currently working on Capstone React Front-end project  
 
