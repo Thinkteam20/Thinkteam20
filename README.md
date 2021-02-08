@@ -4,12 +4,12 @@ I am Sangpil Jung, and I do content on Web development. I really enjoy learning 
 
 ##Skills and Experience 
 
-* ⚛️   REACT
-*📱   REACT NATIVE
-*🖥   HTML / CSS / JAVASCRIPT
-*🖱   NODE.JS / PYTHON / PHP
-*💾   MYSQL
-*📼   Django / AWS 
+* ⚛️   REACT  
+* 📱  REACT NATIVE
+* 🖥  HTML / CSS / JAVASCRIPT
+* 📲  NODE.JS / PHP
+* 💾  mySQL
+* 📼  DJANGO / AWS / HEROKU
 
 ## Example of Work 
 
