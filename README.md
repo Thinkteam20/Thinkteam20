@@ -8,8 +8,9 @@ I am Sangpil Jung, and I do content on Web development. I really enjoy learning 
 * REACT NATIVE
 * HTML / CSS / JAVASCRIPT
 * NODE.JS / PHP
+* Ruby
 * mySQL
-* DJANGO / AWS / HEROKU
+* DJANGO / AWS / HEROKU / rails
 
 ## Example of Work 
 
