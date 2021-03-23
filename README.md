@@ -6,7 +6,7 @@ I am Sangpil Jung, and I do content on Web development. I really enjoy learning 
 
 * REACT  
 * REACT NATIVE
-* HTML / CSS / JAVASCRIPT
+* HTML / CSS / Vanilla JAVASCRIPT
 * NODE.JS / PHP
 * Ruby
 * mySQL
