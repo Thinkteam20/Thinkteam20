@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Sangpil Jung
-#### I am a Front-end developer 
-I am Sangpil Jung, and I do content on Web development. I really enjoy learning languages and frameworks like React, as well as work in WordPress. I also enjoy wireframing, design API, server and front end design in general.
+#### I am a Front-end developer
 
 ## Skills and Experience 
 
@@ -11,7 +10,7 @@ I am Sangpil Jung, and I do content on Web development. I really enjoy learning 
 * RESTFUL APIs
 * Ruby
 * mySQL / MongoDB / Mongoose 
-* DJANGO / AWS / HEROKU / rails
+* AWS
 
 ## Example of Work 
 
