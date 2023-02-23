@@ -3,7 +3,8 @@
 
 ## Skills and Experience 
 
-* REACT  
+* REACT.JS 
+* TYPESCRIPT
 * HTML / CSS / Vanilla JAVASCRIPT
 * NODE.JS
 * DOTNET FRAMEWORK (CORE/MVC PATTERN)
