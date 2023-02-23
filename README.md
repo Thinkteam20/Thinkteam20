@@ -6,7 +6,7 @@
 * REACT  
 * HTML / CSS / Vanilla JAVASCRIPT
 * NODE.JS
-* Express.js 
+* DOTNET FRAMEWORK (CORE/MVC PATTERN)
 * RESTFUL APIs
 * mySQL / MongoDB / Mongoose 
 * AWS
