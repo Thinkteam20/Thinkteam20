@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sangpil Jung
-#### I am a Front-end developer
+#### I am a Full-Stack developer at Mosafe.
 
 ## Skills and Experience 
 
