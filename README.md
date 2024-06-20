@@ -7,6 +7,8 @@
 * TYPESCRIPT
 * HTML / CSS / Vanilla JAVASCRIPT
 * NODE.JS
+* PHP scripting
+* .NET(C#)
 * DOTNET FRAMEWORK (CORE/MVC PATTERN)
 * RESTFUL APIs
 * mySQL / MongoDB / Mongoose 
