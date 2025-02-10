@@ -3,9 +3,6 @@
 
 ## Skills and Experience 
 
-using System;
-using System.Collections.Generic;
-
 public class Person
 {
     private string name;
