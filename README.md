@@ -1,87 +1,52 @@
-### Hi there 👋, my name is Sangpil Jung
-#### I am a Full-Stack developer at Mosafe.
+# 👨‍💻 Sangpil Jung | Full-Stack Developer
 
-## Skills and Experience 
+## 🌐 Professional Overview
 
-public class Person
+I'm a passionate Full-Stack Developer at Mosafe, specializing in creating innovative software solutions across multiple technologies and platforms.
+
+## 🚀 Technical Expertise
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🛠 Tech Stack & Frameworks
+
+#### Python Ecosystem
+- Data Science: Pandas, NumPy, Sci-Kit, TensorFlow
+- Web Scraping: BeautifulSoup, Selenium
+- Web Frameworks: Flask
+- AI/ML: Hugging Face, Transformers, Gradio
+
+#### JavaScript Frameworks
+- Frontend: ReactJS
+- Mobile: React Native
+- Backend: Node.js
+
+#### Web Technologies
+- UI Libraries: Material UI, Tailwind CSS, Bootstrap
+- Styling: Sass
+
+#### Databases
+- Relational: MySQL
+- Non-Relational: MongoDB
+
+## 🧠 Core Interests
+
+- Artificial Intelligence & Machine Learning
+- Algorithm Design & Software Engineering
+- Innovative Technology Solutions
+
+## 🏆 Professional Philosophy
+
+```csharp
+public class ProfessionalPhilosophy
 {
-    private string name;
-    private string major;
-    private int graduationYear;
-
-    public Person()
-    {
-        this.name = "Sangpil Jung";
-        this.major = "Computer Science/Information Technology";
-        this.graduationYear = 2021;
-    }
-
-    public void SayHello()
-    {
-        Console.WriteLine("Hey, thank you for visiting my GitHub profile!");
-    }
-
-    public void ShowAbilities()
-    {
-        // My programming language specialties
-        string[] programmingLanguages = {
-            "Python", "C Sharp",
-            "JavaScript", "HTML/CSS", 
-            "PHP"
-        };
-
-        // Tech stacks, Frameworks, Libraries
-        string[] techStacks = {
-            // Python
-            "Pandas", "NumPy", "Sci-Kit", "TensorFlow",
-            "BeautifulSoup", "Selenium", "Flask", "huggingface",
-            "transformers", "gradio"
-            
-            // JavaScript
-            "ReactJS", "React Native", "Node.js"
-            
-            // PHP
-            "Elementor custom widget"
-
-            // Jquery
-            "scripts"
-            
-            // SQL
-            "MySql" 
-            
-            // Non-relational-db
-            "Mongo Db"
-
-            // style
-            "Material UI", "Tailwind Css", "Sass", "Bootstrap"
-        };
-    }
-
-    public List<string> GetMyInterests()
-    {
-        List<string> interests = new List<string>();
-
-        interests.Add("Artificial Intelligence / Machine Learning");
-        interests.Add("Algorithm & Engineering");
-        interests.Add("Brazilian Jiu-jitsu");
-
-        return interests;
-    }
-
-    public PriorityQueue<string, string> GetMyHobbies()
-    {
-        PriorityQueue<string, string> hobbies = new PriorityQueue<string, string>();
-
-        hobbies.Enqueue("Work out", "Work out");
-        hobbies.Enqueue("Read books", "Read books");
-
-        return hobbies;
-    }
-
-
-
-
-
-
-
-
+    public string Mission => "Creating impactful solutions through technology";
+    public string Approach => "Continuous learning and innovation";
+    public string Motivation => "Solving complex problems with elegant code";
+}
