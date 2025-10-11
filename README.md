@@ -1,4 +1,4 @@
-# 👨‍💻 Sangpil Jung |Junior Full-Stack Developer
+# 👨‍💻 Sangpil Jung |Full-Stack Developer
 
 ## 🌐 Professional Overview
 
