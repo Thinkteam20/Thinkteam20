@@ -18,13 +18,11 @@ I'm a passionate Full-Stack Developer at Mosafe, specializing in creating innova
 
 #### Python Ecosystem
 - Data Science: Pandas, NumPy, Sci-Kit, TensorFlow
-- Web Scraping: BeautifulSoup, Selenium
-- Web Frameworks: Flask
 - AI/ML: Hugging Face, Transformers, Gradio
 
 #### JavaScript Frameworks
-- Frontend: ReactJS
-- Mobile: React Native
+- Frontend: ReactJS, Angular
+- Mobile: React Native, Ionic
 - Backend: Node.js
 
 #### Web Technologies
@@ -34,12 +32,6 @@ I'm a passionate Full-Stack Developer at Mosafe, specializing in creating innova
 #### Databases
 - Relational: MySQL
 - Non-Relational: MongoDB
-
-## 🧠 Core Interests
-
-- Artificial Intelligence & Machine Learning
-- Algorithm Design & Software Engineering
-- Innovative Technology Solutions
 
 ## 🏆 Professional Philosophy
 
