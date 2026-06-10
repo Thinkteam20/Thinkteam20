@@ -1,1 +1,4 @@
-<div align="center"> Sangpil Jung (Derek)Full-Stack Engineer4 years of experience building end-to-end products across healthcare, fleet management, and POS systems. I work primarily with React, Angular, Node.js, and AWS, and I'm currently building PIEZ, an AI-powered content-saving SaaS.📍 Seoul, South Korea  · &nbsp;📧 derek.jung1223@gmail.com</div>
+👨‍💻 Sangpil Jung (Derek)
+Full-Stack Engineer
+4 years of experience building end-to-end products across healthcare, fleet management, and POS systems. I work primarily with React, Angular, Node.js, and AWS, and I'm currently building PIEZ, an AI-powered content-saving SaaS.
+📍 Seoul, South Korea  ·  📧 derek.jung1223@gmail.com
